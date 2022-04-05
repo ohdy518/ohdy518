@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello There! 
 
-<!--
-**NotANumber-1/NotANumber-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I... 
+ - Write a python code ~~and move it into the recycle bin~~
+ - Am trying to develop a new programming language ~~that looks like Assembly or something~~
+ - ~~Like to rickroll someone else [Clickme!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)~~
 
-Here are some ideas to get you started:
+### Uses of GitHub
+ - Post my ~~promiscuous~~ codes
+ - Explore other repos and gists
+ - Communicate with others
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### To contact me
+ - Use GitHub Issues for bug reports, improvement requests, etc. (All messages will go public)
+ - \* Email address and Discord username is a _secret_
+
+### Special Thanks to
+ - All of my followers
+ - **Python, Discord, and Visual Studio Code**
+ - @injoon5
