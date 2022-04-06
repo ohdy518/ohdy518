@@ -14,6 +14,8 @@
  - Use GitHub Issues for bug reports, improvement requests, etc. (All messages will go public)
  - \* Email address and Discord username is a _secret_
 
+![NaN GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotANumber-1&show_icons=true&theme=dark)
+
 ### Special Thanks to
  - All of my followers
  - **Python, Discord, and Visual Studio Code**
