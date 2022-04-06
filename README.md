@@ -1,4 +1,6 @@
 ![NaN GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotANumber-1&show_icons=true&theme=dark)
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNotANumber-1%2F&count_bg=%2334A853&title_bg=%23535353&icon_color=%23DEE1E6&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
 
 # Hello There! 
