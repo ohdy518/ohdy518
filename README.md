@@ -2,6 +2,6 @@
 
 ### To contact me...
  - use GitHub Issues for bug reports, improvement requests, etc.
- - mail `ohdy518@gmail.com` for personal stuff. 
+ - visit https://ohdy.dev/emailme or mail `from-github@ohdy.dev` for personal stuff. 
 
 
